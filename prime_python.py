@@ -10,4 +10,4 @@ def prime_py(range_start, range_end):
       count_of_primes += 1
   return count_of_primes
 
-print(prime_py(0,100000))
+print(prime_py(0,10000))
